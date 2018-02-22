@@ -1,0 +1,8 @@
+{
+  "name": "corchobot",
+  "version": "0.0.1",
+  "description": "El bot del Corcho",
+  "repository": "https://github.com/marianocordoba/corchobot",
+  "author": "Mariano Córdoba <marianocordoba039@gmail.com>",
+  "private": true
+}
