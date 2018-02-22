@@ -2,13 +2,14 @@
   "name": "corchobot",
   "version": "0.0.1",
   "description": "El bot del Corcho",
-  "repository": "https://github.com/marianocordoba/corchobot",
-  "author": "Mariano Córdoba <marianocordoba039@gmail.com>",
   "private": true,
   "dependencies": {
     "dotenv": "^5.0.0",
     "moment": "^2.20.1",
     "telegraf": "^3.18.0",
     "telegram": "^0.2.0"
-  }
+  },
+  "repository": "https://github.com/matesuiso/corchobot",
+  "author": "Matías Rivero <matesuiso@hotmail.com>",
+  "private": true
 }
